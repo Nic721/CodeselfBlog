@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hcxy.dispatchtouchevent_viewgroup.MyLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hcxy.dispatchtouchevent_viewgroup.MainActivity">
+
+    <com.hcxy.dispatchtouchevent_viewgroup.MyButton
+        android:id="@+id/id_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="click me"/>
+
+</com.hcxy.dispatchtouchevent_viewgroup.MyLinearLayout>
