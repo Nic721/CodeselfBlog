@@ -16,3 +16,4 @@
 |CodeselfBlog1:DispatchTouchEvent-ViewGroup|[Android ViewGroup事件分发机制](https://blog.csdn.net/lmj623565791/article/details/39102591)|
 |CodeselfBlog1:Shape|[Android样式开发之 - shape](https://blog.csdn.net/amoscxy/article/details/80400790)|
 |CodeselfBlog1:Selector|[Android样式开发之 - selector](https://blog.csdn.net/amoscxy/article/details/80592547)|
+|CodeselfBlog1:Selector|[Android样式开发之 - layer-list](https://blog.csdn.net/amoscxy/article/details/80593839)|

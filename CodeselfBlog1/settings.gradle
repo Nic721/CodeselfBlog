@@ -1,1 +1,1 @@
-include ':ColorfulStatusBar', ':Toolbar', ':AIDLServer', ':AIDLClient', ':SQLite', ':ContentProvider-in-process', ':Socket_learning', ':DispatchTouchEvent-View', ':DispatchTouchEvent-ViewGroup', ':Shape', ':Selector'
+include ':ColorfulStatusBar', ':Toolbar', ':AIDLServer', ':AIDLClient', ':SQLite', ':ContentProvider-in-process', ':Socket_learning', ':DispatchTouchEvent-View', ':DispatchTouchEvent-ViewGroup', ':Shape', ':Selector', ':Layer-List'
