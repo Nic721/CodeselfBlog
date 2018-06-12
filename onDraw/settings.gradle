@@ -1,0 +1,1 @@
+include ':TestDraw', ':TestBitmap', ':TextMatrix', ':TestShader', ':TestPathEffect'

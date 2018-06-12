@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestBitmap/TestBitmap.iml" filepath="$PROJECT_DIR$/TestBitmap/TestBitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDraw/app.iml" filepath="$PROJECT_DIR$/TestDraw/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPathEffect/TestPathEffect.iml" filepath="$PROJECT_DIR$/TestPathEffect/TestPathEffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestShader/TestShader.iml" filepath="$PROJECT_DIR$/TestShader/TestShader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextMatrix/TextMatrix.iml" filepath="$PROJECT_DIR$/TextMatrix/TextMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onDraw.iml" filepath="$PROJECT_DIR$/onDraw.iml" />
+    </modules>
+  </component>
+</project>
